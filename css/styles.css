@@ -1,10 +1,13 @@
 /*Alfredo Code
+display: inline-block; Se ponen en linea, pero cuando la pantalla se hace corta, el elemento pasa hacia la siguiente linea
+Block level elements:
+display: inline; No posee la caracteristica withd, solo usa el espacio que tiene
 
 body{
     margin: 0;
     padding: 0;
 }
-.container{
+.container{s
     width: 950px;
     background-color: silver;
     margin: 0px auto;
